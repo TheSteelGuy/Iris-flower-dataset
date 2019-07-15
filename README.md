@@ -1,0 +1,1 @@
+This notebook deals with sklearn's built in dataset load_iris. I also explore as i learn in the process how to train models using the available dataset then predicts the species of the sample data set which is actually apart of the load_ris dataset but is removed(so that I dont use what the model saw during training) during training.
